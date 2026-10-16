@@ -8,7 +8,7 @@ O objetivo do desafio foi identificar referências a bases de dados em artigos c
 
 ## 📊 Resultado Final
 
-- 🥉 **Medalha de Bronze**
+- 🥉 [**Medalha de Bronze**](https://www.kaggle.com/reidnersantos)
 - 📍 **Colocação:** 127º lugar de 1.282 equipes
 - 📈 **Métrica:** F1-Score = **0.50185**
 
