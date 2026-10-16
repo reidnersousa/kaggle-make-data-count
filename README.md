@@ -1,6 +1,6 @@
 # 🥉 Make Data Count - Finding Data References
 
-Este repositório contém a solução desenvolvida pela equipe **CIIA** para a competição internacional do Kaggle **"Make Data Count - Finding Data References"**.
+Este repositório contém a solução desenvolvida pela equipe **CIIA** para a competição internacional do Kaggle [**"Make Data Count - Finding Data References"**](https://www.kaggle.com/competitions/make-data-count-finding-data-references).
 
 O objetivo do desafio foi identificar referências a bases de dados em artigos científicos e classificar como esses dados foram mencionados.
 
